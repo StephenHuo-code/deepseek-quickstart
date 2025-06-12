@@ -186,4 +186,5 @@ deepseek/api/milvus_docs/*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db
+Thumbs.dbmilvus_docs/
+milvus_docs/
