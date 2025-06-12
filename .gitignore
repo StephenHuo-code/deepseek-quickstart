@@ -178,3 +178,12 @@ cython_debug/
 *.db.lock
 *.zip
 deepseek/api/milvus_docs/*
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
